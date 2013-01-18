@@ -16,3 +16,4 @@ dist/**
 pkg/*/**
 *.nupkg
 packages/**
+*.hg
